@@ -24,6 +24,8 @@ requirements.txt
 pip install -r requirements.txt
 python marksheet_generator.py
 ```
+## Live Project
+https://automated-marksheet-generator.onrender.com/
 
 ## Assignment test data
 The included CSV contains the sample rows for roll numbers 101–104 plus intentionally invalid roll 106 (Maths = 105) for validation testing.
